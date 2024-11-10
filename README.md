@@ -1,16 +1,12 @@
-👨‍💻 About Me
+-👨‍💻 About Me
 Hi there! 👋 I'm Meghana
 Welcome to my GitHub! I'm a passionate software developer, a dedicated learner, and an enthusiast for all things technology and innovation. Here’s a bit about me and what you’ll find in my repositories!
 
-👨‍💻 About Me
-🌱 Currently Learning: Data Structures, Algorithms, and exploring more about HTML, CSS, Javascript and a newbie in React js......
+-🌱 Currently Learning: Data Structures, Algorithms, and exploring more about HTML, CSS, Javascript and a newbie in React js......
 
-
-🎓 Education: Pursuing Bachelors Degree in Technology (Iformation Technology),a Sophomore in BVRIT-H.
-
+-🎓 Education: Pursuing Bachelors Degree in Technology (Iformation Technology),a Sophomore in BVRIT-H.
 
 - 👀 I’m interested in ...
-
 
 - 📫 How to reach me ...
 LinkedIn – https://www.linkedin.com/in/meghanayenumula
