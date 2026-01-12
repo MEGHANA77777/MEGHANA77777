@@ -4,7 +4,7 @@ Welcome to my GitHub! I'm a passionate software developer, a dedicated learner, 
 
 - 🌱 Currently Learning: Data Structures, Algorithms, and exploring more about HTML, CSS, Javascript and a newbie in React js......
 
-- 🎓 Education: Pursuing Bachelors Degree in Technology (Iformation Technology),a Sophomore in BVRIT-H.
+- 🎓 Education: Pursuing Bachelors Degree in Technology (Iformation Technology),in BVRIT-H.
 
 - 👀 I’m interested in ...
 
